@@ -1,2 +1,2 @@
 # docker-awscli
-docker:latest + awscli + ssmenv + ep
+docker:latest + awscli + ssmenv + ep + sceptre
